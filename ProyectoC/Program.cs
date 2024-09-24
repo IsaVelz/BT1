@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        try
+        try 
         {
             // Bloque "using" que inicializa el contexto de datos y garantiza su correcta disposición al finalizar.
             using (var contexto = new MiContextoDeDatos())

@@ -4416,11 +4416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabel Velez\\Desktop\\TALLERNUMERO1\\BT1\\ProyectoC\\ProyectoC.csproj",
+      "projectUniqueName": "C:\\Users\\Isabel Velez\\Desktop\\BT1\\ProyectoC\\ProyectoC.csproj",
       "projectName": "ProyectoC",
-      "projectPath": "C:\\Users\\Isabel Velez\\Desktop\\TALLERNUMERO1\\BT1\\ProyectoC\\ProyectoC.csproj",
+      "projectPath": "C:\\Users\\Isabel Velez\\Desktop\\BT1\\ProyectoC\\ProyectoC.csproj",
       "packagesPath": "C:\\Users\\Isabel Velez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabel Velez\\Desktop\\TALLERNUMERO1\\BT1\\ProyectoC\\obj\\",
+      "outputPath": "C:\\Users\\Isabel Velez\\Desktop\\BT1\\ProyectoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
